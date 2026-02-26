@@ -27,3 +27,19 @@ Analise de requisitos
 - Especificar requisitos de maneira clara e objetiva
 - Garantir que os requisitos não entrem em conflito
 - Facilitar a comunicação entre clientes, desenvolvedores e demais envolvidos
+
+Se um analista não interpreta corretamente um pedido do cliente, pode gerar erros na implementação
+
+Levantamento, Especificação e Validação de Requisitos
+
+Levantamento: Processo de coleta de informações com stakeholders para definir o que o sistema deve fazer
+Especificação de requisitos: Documentaçõa detalhada dos requisitos levantados, geralmente em documentos como DRS (Documento de Requisitos de Software)
+Validação de Requisitos: Revisão de Requisitos para garantir que atendam as nescessidades do cliente e não possuem falhas ou contradições
+
+Erro comun: Cliente pede um sistema tenha um "relatorio financeiro", mas não especificam o tipo: Exel ou PDF. Sem validação, o sistema pode ser entregue sme que essa funcionalidade essencial funcione de acordo com a necessidade
+
+Exemplo de requisito bem definido:
+- "O sistema deve permitir que o usuario redefina sua senha ao informar seu e-mail cadastrado e confirmar um código de vereficação"
+          -Claro e objetivo
+          - Descreve a funcionalidade com precisão
+          
