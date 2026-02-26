@@ -1,0 +1,67 @@
+
+
+
+Tipos de requisitos
+- Os requisitos de software são as especificações que definem o que um sistema deve fazer e como deve funcinoar. Eles são essenciais para garantir que o desenvolvimento atenda às expectativas do cliente e funcione conforme planejado
+
+Requisitos Funcionais:
+- Os requisitos funcionais espeficiam as funções e comportamentos que o software deve possuir para atender às necessidades do usuario. Eles determinam o que o sistema deve fazer e são geralmente descritos em termos de entradas, processos de saidas
+Exemplos:
+- O sistema deve ter uma funcionalidade que permita o cadastro de usuarios de usuarios com nome, e-mail e senha
+- O sistema deve ter uma funcionalidade que permita ao usuario recuperar a senha atravès de link enviada ao e-mail cadastrado
+
+- Documentar Requisitos Funcionais
+
+Requisitos Não Funcionais
+- Os requisitos não funcionais definem caracteristicas, restrições e qualidade do sistema. Eles não descrevem funcionalidades, mas especificam como o sistema deve se comportar para atender padrões de desempenho, segurança, compatibilidade e usuabilidade
+Exemplos:
+- O sistema deve suportar 1000 acessos simultaneos (Desempenho)
+- O tempo de resposta de uma requisição não deve ultrapassar 2 segundos (Eficiencia)
+- O software deve ultilizar autenticação de dois fatores (Segurança)
+- O sistema deve ser compativel com os navegadores Google Chrome, Firefox e Edge (Compatibilidade)
+- A interface deve seguir o padrão Material Design (Usuabilidade)
+
+Especificação com Criterios de aceitação
+Os requsitos não funcionais podem ser melhor definidas usando criterios de aceitação, que indicam como o requisito será validado:
+- Exemplo: RNF-004: TEMPO DE RESPOSTA
+- Descrição: O sistema deve responder ás requisisões em menos de 2 segundos
+- Criterio de aceitação: O tempo de resposta será validado com testes de carga simulando 1000 usuarios simultaneos
+
+A inicialização do sistema operacional deve OCORRER em menos de cinco segundos (Não funcional)
+
+Cinco requisitos funcionais para o sistema operacional Windons
+- Configurações
+- Relogio em tempo real
+- Gerenciamento do Computador
+- Terminal
+- Browser
+
+- BIOS (Funcional)
+- Front end
+- Terminal (Não funcinal)
+- Driver
+- Gerenciamento de Arquivos Aplicativo (Não funcional)
+- Bloco de notas (Não funcinonal)
+- Sistema de arquivos (Funcional)
+- CMD (Não funcional)
+
+windons+z = Abrir gerenciador de arquivos
+
+CIPA -> Comissão Interna de Prevenção de Acidentes
+NPA (Nucleo de Prevenção a Acidentes) ADC (Apoio e defesa civil)
+- Subfunção da CIPA
+
+Representante Primeira Turma
+- Gabriel Fachinelo
+Representante Segunda Turma
+- Isabela Zamai
+Representante NPAADC
+- Alicia Flor
+
+GITHUB
+Login: aliciaelizabethpilarflor-arch
+
+
+
+
+

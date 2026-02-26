@@ -1,0 +1,34 @@
+
+OS REQUISITOS SÃO FUNDAMENTAIS PARA GARANTIR QUE O PROJETO DE SOFTWARE ATENDA ÁS NESCESSIDADES DOS USUARIOS E DOS NEGOCIOS 
+
+Funicinal de Software
+--> A ação que voce precisa resolver
+-Descreve o que o sistema deve fazer
+-São as funcionalidades essenciais
+
+Não funiconal de Software: 
+Esta relacionado as caracteristicas da qualidade do sistema, eles definem os atributos que garantem que o produto seja eficaz, eficiente e sustentavel
+
+1) Invasão de privacidade, cercas barraquinha
+2) Invasão e roubo de propriedade
+3) Barraquinha que esta a quinze anos
+4) Uma semana
+5) Para os consumidores da minha barraquinha
+6) Só apenas a parte de acesso da minha loja
+7) 10 mil para a solução
+8) Ele precisa ser feito com catracas com comandas
+
+Requisitos Funcionais:
+- Comanda precisa ser paga no caixa
+- A catraca deve liberar somente a pagar
+- As catracas c/ sistema de liberação
+- Área cercada
+
+
+Sistema operacional (software e hardware) para a validação de pagamento pelas comandas
+Organização de clientes por comandas e pedidos por um sistema de chamada de comanda
+Sistema operacional (software e hardware) para a liberação dos clientes depois de pagar as comandas
+
+Aplicativo de controle no celular (Não funcional)
+Reserva antes de ir a barraca (Não funcional)
+Software de validação (Funcional mas ainda necessita de outras coisas)
