@@ -1,0 +1,29 @@
+Aula teorica
+Projeto de Levantamento de Requisios 
+O que e um requisito?
+Um requisot, em sua essencia, e a difinição de funcionalidade que um sistema deve atender. Essa nescessidade pode vir de diferentes fontes:
+- Cliente que encomendou o sistema
+- Usuarios ultilizaram
+
+
+E preciso compreender que um requisito não e apenas uma vaga ideia ou desejo. Ele deve ser espeficio, mensuravel, alcançavel, relevante e com prazo definido.
+Em vez de dizer "o sistema deve ser rapido", devemos dizer "o sistema deve carregar a tela principal em menos de 3 segundos". Essa clareza é essencial para evitar ambiguidades e garantir que todas estegam na mesma pagina 
+
+
+O que e um levantamento de requisitos?
+Antes de comear a desenvolver um software é nescessario conhcecer as reais necessidades do cliente. Esse primeiro contato de recolher informações é chamado de levantamento de Requisitos
+
+
+
+O objetivo sincronizar a expectativa do cliente com o produto final - o software que sera desenvolvido pelos programadores - reduzindo custos e potencial retrabalhado gerado por esses ruidos de comunicação 
+As princpais caracteristicas de levantamento de requisitos são:
+- Se preocupar em bsucar informações do cliente para construir um software
+- Organizar o projeto antes de inicia qualquer implementação
+- Entregar um software de qualidade e que atenda de fato as necessidades do usuario
+
+Analise de requisitos
+- Entender as nescessidades dos usuarios
+- Escolher as melhores tecnicas para levantamento de requisitos
+- Especificar requisitos de maneira clara e objetiva
+- Garantir que os requisitos não entrem em conflito
+- Facilitar a comunicação entre clientes, desenvolvedores e demais envolvidos
