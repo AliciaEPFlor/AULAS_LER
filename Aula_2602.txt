@@ -42,4 +42,33 @@ Exemplo de requisito bem definido:
 - "O sistema deve permitir que o usuario redefina sua senha ao informar seu e-mail cadastrado e confirmar um código de vereficação"
           -Claro e objetivo
           - Descreve a funcionalidade com precisão
-          
+Exemplo de requisito bem definido:
+"O sistema deve ser facil de usar"
+          - Ambiguo - o que significa "facil"?
+          - Não e mensuravel
+
+Atividade:
+Pesquisa e escreva casos reais de falhas causadas por requisitos mal definidos
+
+1. Falhas em Máquinas de Litografia (Luz Incorreta/Hotspots)
+A litografia usa luz para "desenhar" o circuito.
+O Problema (Hotspots/Erros de Delineamento): À medida que os chips diminuíram, a luz usada no processo se aproximou de seus limites físicos. Requisitos mal definidos para a Correção de Proximidade Óptica (OPC) — algoritmos que ajustam a máscara de luz — levaram à formação de "hotspots" (pontos quentes) na bolacha de silício.
+Consequência: Essas falhas resultam em padrões desalinahdos ou contornos irregulares, reduzindo drasticamente o rendimento (yield) da fábrica (quantidade de chips bons por wafer). 
+A falha crítica no desenvolvimento da luz ultravioleta extrema (EUV) — a tecnologia laser usada para criar os microchips mais avançados do mundo (como os de IA) — ocorreu principalmente durante as décadas de 1990 e início dos anos 2000.
+O grande desafio técnico foi fazer com que a fonte de luz EUV (comprimento de onda de 13,5 nm) tivesse potência suficiente para a produção em massa, um problema que quase inviabilizou a tecnologia. 
+
+2.Falha de Requisito de "Limpeza" (Contaminação por Nanopartículas)
+As máquinas de fabricação exigem salas limpas (cleanrooms).
+O Problema (Falha na Tubulação de Alta Pureza - UHP): Requisitos de design inadequados na especificação dos tubos de gases de processo podem permitir pequenas impurezas ou contaminação por partículas químicas.
+Consequência: Mesmo a menor contaminação, não detectada devido a requisitos de inspeção fracos, pode arruinar um lote inteiro de chips, gerando prejuízos milionários. 
+
+3. Instabilidade em Processadores por Tensão (Requisito de Firmware do Equipamento)
+O Caso Intel (13ª/14ª Geração): A Intel identificou que uma falha no algoritmo de microcódigo (um requisito de software no design/fab) causava instabilidade, fazendo com que o processador operasse com tensão acima do projetado.
+Falha na Definição: O requisito de controle térmico e elétrico na produção não antecipou o comportamento do chip em cenários de alta demanda, levando a telas azuis e danos físicos. 
+
+4.Falhas por "Under-lubrication" (Falha em Equipamento de Manuseio)
+O Problema (Lubrificação no Equipamento): Máquinas de fabricação são altamente automatizadas. Requisitos de manutenção mal definidos ou falta de procedimentos de lubrificação adequados (ou uso de lubrificantes errados) em braços robóticos de alta precisão podem ocorrer.
+Consequência: Sobrelubrificação ou sublubrificação podem causar contaminação ambiental (nanopartículas), falhas no manuseio de wafers (quebra) e contaminação na área de limpeza. 
+
+
+Consequência: EMI causa falhas paramétricas, erros de operação e tempo de inatividade da fábrica (downtime), reduzindo a produtividade.
