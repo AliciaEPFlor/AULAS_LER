@@ -72,3 +72,42 @@ Consequência: Sobrelubrificação ou sublubrificação podem causar contaminaç
 
 
 Consequência: EMI causa falhas paramétricas, erros de operação e tempo de inatividade da fábrica (downtime), reduzindo a produtividade.
+
+doble: mais especificado
+11" = 15,4 mm ou 1,54 cm 
+
+Modelos de documentação:
+A documentação de requisitos é essencial para garantir que todas as partes envolvidas no desenvolvimento tenham um entendimento claro e comun do que sera desenvolvido. A escolha do modelo de dodumentação
+
+
+
+Documentos de requisitos de Software (DRS)
+
+O documeno de Requisitos de Software (DRS) e um documento detalhado que desceve os requisitos do sistema, servindo como referencia principal do que sera deselvolvido.
+- Essencial para garantir entendimento do que sera deselvolvido
+- A escolha do modelo de documentaçõa depende do contexto do projeto
+- Nivel de formalidade exigido
+
+Principais seções de DRS
+-Introdução
+-Descrição
+- Regra de Negocio 
+
+Modelos de documentação
+- Caso de uso
+Os casos de uso são uma tecnica de modelagem usada para descrever interações entre usuarios e o sistema. Ele são representados por diagramas (Diagramas de Caso de Uso- UML) e texto descritivos
+
+Estrutura
+- Nome: Indentificação do caso de uso
+- Ator: Quem esta integrada
+- 
+
+Exemplos: 
+Fluxo principal:
+- Usuario insere login e senha
+- O sistema valida as credenciais
+- O sistgema concede acesso ao usuario
+
+
+
+
