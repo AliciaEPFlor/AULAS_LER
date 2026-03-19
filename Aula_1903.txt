@@ -1,0 +1,51 @@
+Breafing 
+    - Briefing é um documento que reune informações essenciais sobre um projeto antes de seu inico. Ele funciona como um guia para a equipe de desenvolvimento, garantindo que todos os envolvidos compreendam os objetivos do sistema
+- 
+-
+-
+
+Levantamnto Orientado a Ponto de Vista
+- Parte do principio de os envolvidos tem perspectiva distintas sobre o sistema. Assim, é necessario coletar requisitos considerando diferentes perspectivas
+
+    - Identificam-se os diferentes grupos de interesse (usuaruios finais, gerentes, equipe, tecnica, etc)
+    -Reuniões separadas para cada grupo, garantido que suas necessidades sejam compreendidas
+    - Os requisitos obtidos são analisados em conjunto para identificar conflitos ou lacunas
+
+Etnografia (Observação)
+- A Etnografia consiste na observação direta do ambiente de trabalho dos usuarios, analisando como interagem com os sistemas e realizam suas tarefas diarias
+    - O analista de requisitos acompanha os usuarios em seu ambiente real de trabalho
+    - São observados processos, dificuldades e soluções improvisadas
+    - As interações com sistemas existentes são analisados
+    - Fornaçe uma visão realista das necessidades dos usuarios
+    - Permite identificar problemas que os usuarios podem não relatar
+    - Ajuda na criação de soluções mais aderentes ao contexto
+
+Entrevista
+- A entrevista é uma das tecnicas mais
+    - Estruturada: Perguntas fechadas, com roteiro fixo. Boa para coleta pradonizada de informações
+    - Semiestruturada: Mistura perguntas abertas e fechadas, permitindo flexibilidade na coleta de requisitos
+    - Não estruturada: Conversa livre, explorando temas conforme a necessidade
+
+1.
+2.
+3.
+4.
+5.
+
+PARA UM BRAINSTORM EFICAZ, E IMPORTANTE SEGUIR ALGUMAS REGRAS:
+- Não julgar
+- Incentivar a criatividade
+- Quantidade 
+- Construção
+
+Vantagens:
+    - Estimula a criatividade e inovação
+    - Permite identificar requisitos que não surigram em tecnicas tradicionais 
+    - Gera engajamento entre os participantes
+
+Fases do Levantamento de Requisitos:
+- Coleta 
+- Analise
+- Registro 
+
+Coleta de requisitos:
